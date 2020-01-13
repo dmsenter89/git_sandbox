@@ -12,9 +12,15 @@ def print_sqrs(nums: List[float]):
 def some_function():
     pass
 
+def rachel_func():
+    print("Rachel's function is going to win!!")
+
 def main():
     some_nums = [4,8,12,4]
     print_sqrs(some_nums)
+    rachel_func()
 
 if __name__=='__main__':
     main()
+
+
