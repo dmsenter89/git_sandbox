@@ -14,5 +14,9 @@ def main():
     some_nums = [1,2,3,4]
     print_sqrs(some_nums)
 
+def broken():
+    again_some_nums=[5,6,7,8]
+    print_sqrs(again_some_num)
+
 if __name__=='__main__':
     main()
