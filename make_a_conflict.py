@@ -10,9 +10,13 @@ def print_sqrs(nums: List[float]):
 def some_function():
     pass
 
+def rachel_func():
+    print("Rachel's function is going to win!!")
+
 def main():
     some_nums = [1,2,3,4]
     print_sqrs(some_nums)
+    rachel_func()
 
 def broken():
     again_some_nums=[5,6,7,8]
@@ -20,3 +24,8 @@ def broken():
 
 if __name__=='__main__':
     main()
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> eb6764a5d3b93efb848652018fe9f99215b59e21
