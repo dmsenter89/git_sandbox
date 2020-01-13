@@ -4,8 +4,10 @@ from typing import List
 
 def print_sqrs(nums: List[float]):
     """Takes a list of floats and prints the square of each element."""
+    print('--------------------')
     for elem in nums:
         print(f"{elem}^2 == {elem**2}")
+    print('--------------------')
 
 def some_function():
     pass
