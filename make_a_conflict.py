@@ -11,7 +11,7 @@ def some_function():
     pass
 
 def main():
-    some_nums = [1,2,3,4]
+    some_nums = [3,2,1,4]
     print_sqrs(some_nums)
 
 if __name__=='__main__':
