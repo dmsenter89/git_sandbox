@@ -20,7 +20,14 @@ def main():
     print_sqrs(some_nums)
     rachel_func()
 
+def broken():
+    again_some_nums=[5,6,7,8]
+    print_sqrs(again_some_num)
+
 if __name__=='__main__':
     main()
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> eb6764a5d3b93efb848652018fe9f99215b59e21
