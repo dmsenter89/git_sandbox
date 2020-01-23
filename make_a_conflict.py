@@ -26,8 +26,3 @@ def broken():
 
 if __name__=='__main__':
     main()
-<<<<<<< HEAD
-=======
-
-
->>>>>>> eb6764a5d3b93efb848652018fe9f99215b59e21
