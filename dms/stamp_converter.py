@@ -38,7 +38,7 @@ def stamp2iso(string):
     """
     Takes in a UNIX timestamp as string, returns string in ISO format.
     """
-    return str(datetime.fromtimestamp(int(string)).strftime("%Y-%m-%dT:%H:%M:%S"))
+    return str(datetime.fromtimestamp(int(string)).strftime("%Y-%m-%dT%H:%M:%S"))
 
 
 def fix_header(infile, outfile, colnum):
